@@ -1,0 +1,1 @@
+My idea: I did not have a plan at first, so I asked for a hint. The idea is to count each letter in both words and compare the counts.
